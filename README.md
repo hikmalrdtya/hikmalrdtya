@@ -7,6 +7,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,javascript,kotlin,cpp,mysql,php" />
+
+ <img src="https://skillicons.dev/icons?i=nodejs" />
 </div>
 </div>
 <br> <br>
