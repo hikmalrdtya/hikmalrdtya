@@ -6,9 +6,9 @@
 <h2 align="center"> Languages & Frameworks Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,javascript,kotlin,cpp,mysql,php" />
-
- <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,sublime,git,javascript,kotlin,cpp,mysql,php" />
+    <br>
+   <img src="https://skillicons.dev/icons?i=nodejs,bun,tailwind,react,express" />
 </div>
 </div>
 <br> <br>
