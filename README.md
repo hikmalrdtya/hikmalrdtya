@@ -1,6 +1,6 @@
  👋 Hi, I’m Hikmal Raditya
  
-![Jenengmu](https://media3.giphy.com/media/3ohjV6G9UwkB190zbq/giphy.gif?cid=6c09b9523sfhu0kb6h03xpl4bvuyft1yfbn7v2z5f06se63c&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+![Jenengmu](/assets/ezgif.com-resize.gif)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hikmal+Raditya!;" />
