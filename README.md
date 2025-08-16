@@ -1,5 +1,3 @@
- 👋 Hi, I’m Hikmal Raditya
- 
 ![Jenengmu](/assets/ezgif.com-resize.gif)
 
 <h1 align="center">
